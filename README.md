@@ -8,23 +8,23 @@ You can find details in [this](https://medium.com/gravitdesigner/an-easy-approac
 
 ## Palettes ##
 Flat UI and Material UI colours palettes are the most popular colour palettes in the world.
-Material Colour Palette
+###Material Colour Palette
 ![alt text](https://raw.githubusercontent.com/fatay/Five-Days-With-Design-Trends/main/Day5%20-%20Design%20Trends%20%26%20Palettes/MaterialUI.png)
 Flat Colour Palette
 ![alt text](https://github.com/fatay/Five-Days-With-Design-Trends/blob/main/Day5%20-%20Design%20Trends%20%26%20Palettes/FlatUI.jpg)
 
 ## Design Trends ##
-Flat Design
+###Flat Design
 Flat design is one of the minimalist design trends. The designer generally uses pastel and flat colour palette. Also, flat websites use vectors often.
 ![alt text](https://raw.githubusercontent.com/fatay/Five-Days-With-Design-Trends/main/Day5%20-%20Design%20Trends%20%26%20Palettes/FlatFair.png)
 [FlatFair Website](https://flatfair.co.uk/) is a good example of flat design.
 
-Fluid Design
+###Fluid Design
 Fluid designs generally include transparent 3d vectors, purple-blue gradient on screen.
 ![alt text](https://raw.githubusercontent.com/fatay/Five-Days-With-Design-Trends/main/Day5%20-%20Design%20Trends%20%26%20Palettes/Elje%20Group.png)
 [Elje Group Website](https://elje-group.com/) is nice example of flat design.
 
-Soul Pattern Design
+###Soul Pattern Design
 ![alt text](https://raw.githubusercontent.com/fatay/Five-Days-With-Design-Trends/main/Day5%20-%20Design%20Trends%20%26%20Palettes/ORACLE.png)
 [Oracle Website](https://oracle.com) is a good example of flat design.
 
