@@ -24,7 +24,7 @@ Fluid designs generally include transparent 3d vectors, purple-blue gradient on 
 ![alt text](https://raw.githubusercontent.com/fatay/Five-Days-With-Design-Trends/main/Day5%20-%20Design%20Trends%20%26%20Palettes/Elje%20Group.png)
 [Elje Group Website](https://elje-group.com/) is nice example of flat design.
 
-### Soul Pattern Design ###
+### Soulful Pattern Design ###
 ![alt text](https://raw.githubusercontent.com/fatay/Five-Days-With-Design-Trends/main/Day5%20-%20Design%20Trends%20%26%20Palettes/ORACLE.png)
 [Oracle Website](https://oracle.com) is a good example of pattern design.
 
