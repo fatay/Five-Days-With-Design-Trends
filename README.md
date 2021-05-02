@@ -15,7 +15,7 @@ Flat UI and Material UI colours palettes are the most popular colour palettes in
 
 ## Design Trends ##
 ### Flat Design ###
-Flat design is one of the minimalist design trends. The designer generally uses pastel and flat colour palette. Also, flat websites use vectors often.
+Flat design is one of the minimalist design trends. The designer generally use the pastel and flat colour palette. Also, flat websites use vectors often. 
 ![alt text](https://raw.githubusercontent.com/fatay/Five-Days-With-Design-Trends/main/Day5%20-%20Design%20Trends%20%26%20Palettes/FlatFair.png)
 [FlatFair Website](https://flatfair.co.uk/) is a good example of flat design.
 
