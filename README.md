@@ -28,7 +28,7 @@ Fluid designs generally include transparent 3d vectors, purple-blue gradient on 
 ![alt text](https://raw.githubusercontent.com/fatay/Five-Days-With-Design-Trends/main/Day5%20-%20Design%20Trends%20%26%20Palettes/ORACLE.png)
 [Oracle Website](https://oracle.com) is a good example of pattern design.
 
-#Useful Resources
+## Useful Resources ##
 * [DaFont](https://www.dafont.com/) - Useful website for discovering new fonts.
 * [Google Fonts](https://fonts.google.com/) - Another website for using selected high-quality web fonts. You can implement these fonts to your website easily.
 * [Coolors](https://coolors.co/) - Coolors is very nice color scheme generator for free.
