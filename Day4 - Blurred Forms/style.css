@@ -1,0 +1,110 @@
+* {
+  box-sizing: border-box;
+  margin:0;
+  paddding: 0;
+  font-family: verdana, Arial, Helvetica;
+}
+
+.background-image, .content.blur{
+  background-image: linear-gradient(
+        rgba(9,36,64,0.7) 0%, 
+        rgba(9,36,64,0.1) 50%, 
+        rgba(9,36,64,0.7) 100%),        
+        url('yosemite.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.background-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.content p {
+  filter: blur(0px);
+}
+
+.content {
+  width: 400px;
+  height: 400px;
+  padding:40px;
+  border-radius: 15px;
+}
+
+.content.blur {
+  filter: blur(10px);
+  position: absolute;
+  z-index:1;
+}
+
+.content.not-blur {
+  border: 1px solid lightgray;
+  z-index: 999;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content: center;
+}
+
+.content.not-blur h1 {
+  color: white;
+  font-size: 2em;
+  margin-bottom: 40px;
+}
+
+.content.not-blur form {
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content: center;
+  width: 60%;
+  min-width: 300px;
+  max-width: 450px;
+}
+
+.content.not-blur form input{
+  padding: 14px;
+  margin: 7px;
+  border-radius: 7px;
+  font-size: 1.1em;
+  border:1px
+}
+
+.content.not-blur form input[type="text"],
+.content.not-blur form input[type="password"]
+{
+  background: linear-gradient(
+    rgba(159, 170, 183,1) 0%
+	rgba(217, 225, 237,1) 100%,
+  );
+  color: #111;
+  width: 100%;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
+
+.content.not-blur form input[type="button"] {
+  background: linear-gradient(
+    rgba(73,155,234,1) 0%, 
+    rgba(25,88,156,1) 100%
+  );
+  color: white;
+  width: 100%;
+  margin-top:16px;
+}
+
+.content.not-blur form input[type="button"]:hover{
+  background: linear-gradient(
+    rgba(0,155,234,1) 0%, 
+    rgba(0,88,156,1) 100%
+  );
+  color: white;
+  width: 100%;
+  cursor:pointer;
+}

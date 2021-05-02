@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+body {
+  background-color:#bdc3ca;
+}
+
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+section {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+}
+
+.parallax h1 {
+  position: relative;
+  color:#000;
+  font-size: 24px;
+}
+
+
+.brand {
+  text-align: center;
+  margin-left: 2em;
+  z-index: 4;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.road {
+  position: absolute;
+  top:0;
+  left:0;
+  width: 24em;
+  height: 24em;
+  margin-top: -2em;
+  margin-left:-5.6em;
+  transform: rotate(-4deg);
+}
+
+.leftBottom {
+  width: 12em;
+  height:14em;
+  position:absolute;
+  left:2em;
+  bottom:0;
+}
+
+.downloadApp {
+  position: absolute;
+  top: 20em;
+  left:16em;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  color:#111;
+}
+
+.btnFlex{
+  margin-top:1em;
+  position: relative;
+  border-radius: 8px;
+  height: 2.8em;
+  width: 16em;
+  color:whitesmoke;
+  border-style: none;
+  z-index: 3;
+  cursor: pointer;
+  background-color: #01a254;
+}
+
+.btnFlex:hover {
+  background-color: #111;
+  color:#01a254;
+}
+
+.mill {
+  width: 12em;
+  height:12em;
+  position: relative;
+}
+
+.sb1 {
+  width: 2.4em;
+  height: auto;
+  position: absolute;
+  left: 42em;
+  top: 20em;
+}
+
+.sb2 {
+  width:10em;
+  height: auto;
+  position: absolute;
+  left: 32em;
+  top: 48em;
+}
+
+.sb3 {
+  width:10em;
+  position: absolute;
+  top:8em;
+  left:42em;
+}
+
+.sb4 {
+  width:10em;
+  position: absolute;
+  top:16em;
+  left:68em;
+}
+
+.sb5 {
+  width:2.4em;
+  position: absolute;
+  top:32em;
+  left:72em;
+}
+
+.sq1 {
+  width:12em;
+  position: absolute;
+  bottom: 0;
+  left:52em;
+}
+
+.tq1 {
+  position: absolute;
+  width:3.2em;
+  left:76em;
+  top: 2em;
+}
+
+.tq2 {
+  position: absolute;
+  width: 3.2em;
+  left:80em;
+  top:3em;
+}
+
+.man{
+  width:12em;
+  position: absolute;
+  left:52em;
+  bottom:10em;
+}
+
+.rightBottom{
+  -webkit-transform: rotateX(180deg);
+  transform: rotateX(180deg);
+  position: absolute;
+  right: 8em;
+  bottom: 0;
+}
