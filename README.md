@@ -1,5 +1,5 @@
 # Five-Days-With-Design-Trends
-Design Theory and Useful Sources for Front-End Developers
+Code examples(repo), Design Theory and Useful Sources for Front-End Developers
 
 ## Colour Theory ##
 Colour theory is nothing but how to use colours efficiently.
