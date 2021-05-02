@@ -8,9 +8,9 @@ You can find details in [this](https://medium.com/gravitdesigner/an-easy-approac
 
 ## Palettes ##
 Flat UI and Material UI colours palettes are the most popular colour palettes in the world.
-###Material Colour Palette
+### Material Colour Palette ###
 ![alt text](https://raw.githubusercontent.com/fatay/Five-Days-With-Design-Trends/main/Day5%20-%20Design%20Trends%20%26%20Palettes/MaterialUI.png)
-Flat Colour Palette
+### Flat Colour Palette ###
 ![alt text](https://github.com/fatay/Five-Days-With-Design-Trends/blob/main/Day5%20-%20Design%20Trends%20%26%20Palettes/FlatUI.jpg)
 
 ## Design Trends ##
@@ -26,7 +26,7 @@ Fluid designs generally include transparent 3d vectors, purple-blue gradient on 
 
 ### Soul Pattern Design ###
 ![alt text](https://raw.githubusercontent.com/fatay/Five-Days-With-Design-Trends/main/Day5%20-%20Design%20Trends%20%26%20Palettes/ORACLE.png)
-[Oracle Website](https://oracle.com) is a good example of flat design.
+[Oracle Website](https://oracle.com) is a good example of pattern design.
 
 #Useful Resources
 * [DaFont](https://www.dafont.com/) - Useful website for discovering new fonts.
