@@ -14,17 +14,17 @@ Flat Colour Palette
 ![alt text](https://github.com/fatay/Five-Days-With-Design-Trends/blob/main/Day5%20-%20Design%20Trends%20%26%20Palettes/FlatUI.jpg)
 
 ## Design Trends ##
-###Flat Design
+### Flat Design ###
 Flat design is one of the minimalist design trends. The designer generally uses pastel and flat colour palette. Also, flat websites use vectors often.
 ![alt text](https://raw.githubusercontent.com/fatay/Five-Days-With-Design-Trends/main/Day5%20-%20Design%20Trends%20%26%20Palettes/FlatFair.png)
 [FlatFair Website](https://flatfair.co.uk/) is a good example of flat design.
 
-###Fluid Design
+### Fluid Design ###
 Fluid designs generally include transparent 3d vectors, purple-blue gradient on screen.
 ![alt text](https://raw.githubusercontent.com/fatay/Five-Days-With-Design-Trends/main/Day5%20-%20Design%20Trends%20%26%20Palettes/Elje%20Group.png)
 [Elje Group Website](https://elje-group.com/) is nice example of flat design.
 
-###Soul Pattern Design
+### Soul Pattern Design ###
 ![alt text](https://raw.githubusercontent.com/fatay/Five-Days-With-Design-Trends/main/Day5%20-%20Design%20Trends%20%26%20Palettes/ORACLE.png)
 [Oracle Website](https://oracle.com) is a good example of flat design.
 
@@ -37,3 +37,5 @@ Fluid designs generally include transparent 3d vectors, purple-blue gradient on 
 * [Awwwards](https://www.awwwards.com/) -Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world
 * [Dribble](https://dribbble.com/) - Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals.
 * [Behance](https://www.behance.net/) - Behance is the world's largest creative network for showcasing and discovering creative work.
+
+You can check out my github repo for other good css/javascript design examples.
