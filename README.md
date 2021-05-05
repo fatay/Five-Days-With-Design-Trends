@@ -37,5 +37,5 @@ Fluid designs generally include transparent 3d vectors, purple-blue gradient on 
 * [Awwwards](https://www.awwwards.com/) -Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world
 * [Dribble](https://dribbble.com/) - Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals.
 * [Behance](https://www.behance.net/) - Behance is the world's largest creative network for showcasing and discovering creative work.
-* [Js/Css Design Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+* [Js/Css Design Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - Good channel for understanding key concepts like glassmorphism neumorphism.
 You can check out my github repo for other good css/javascript design examples.
